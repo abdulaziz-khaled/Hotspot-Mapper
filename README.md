@@ -167,6 +167,8 @@ Inspect the SEQRES and ATOM records to identify the chain identifiers for your p
 - **Chain F** = TNF-α (ligand)
 - **Chain L** = TNFR1 (receptor)
 
+![image](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/screen%20chain%20F%20and%20L.png)
+
 ---
 
 ### Step 2 — Run PDBePISA Interface Analysis
