@@ -1,4 +1,5 @@
 # PPI Hotspot Identification via PDBePISA
+![h](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/IMG_4963.jpeg)
 ### A Computational Pipeline for Protein–Protein Interface Analysis and Binding Determinant Characterization
 
 > **Case study:** TNF-α / TNFR1 complex (PDB: [8ZUI](https://www.rcsb.org/structure/8ZUI))
