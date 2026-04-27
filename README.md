@@ -1085,6 +1085,8 @@ ray 1200, 900
 png figure_complex_overview.png, dpi=300
 ```
 
+![h](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/Overall%20TNF-TNFR1%20complex.png)
+
 **Figure B — Interface residues with bonds (sticks):**
 ```python
 select iface_F, chain F and resi 45+46+47+48+60+61+62+63+64+65+66+76+77+78+79+81+83+92+93+119+120+155+156+159+162+165+166+167+174+177
