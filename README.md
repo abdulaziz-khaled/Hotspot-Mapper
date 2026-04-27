@@ -1115,6 +1115,8 @@ png figure_interface_sticks.png, dpi=300
 
 ![h](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/iterface%20residues%20as%20sticks%20with%20hbonds.png)
 
+![g](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/zoom%201.png)
+
 ---
 
 ## References
