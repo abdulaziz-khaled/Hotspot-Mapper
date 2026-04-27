@@ -1117,6 +1117,8 @@ png figure_interface_sticks.png, dpi=300
 
 ![g](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/zoom%201.png)
 
+![g](https://github.com/abdulaziz-khaled/Hotspot-Mapper/blob/main/zoom%202.png)
+
 ---
 
 ## References
